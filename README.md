@@ -5,8 +5,8 @@
 <b>This repository contains practical exercises for the Red Hat Summit 2020 Instructor-Led-Lab (ILL), Deploy and scale Cloud Native Microsoft Azure infrastructures and applications with Red Hat Ansible Automation.</b>
 <HR>
 <h3>Utilizing the Azure Linux CLI, these labs will allow you to interact with Azure to perform the following tasks using Ansible by Red Hat:</h3>
-<HR>
-<b>Deploy an application and leverage Cloud Native services to scale:</b>
+<HR> 
+<b>Deploy  an application and leverage Cloud Native services to scale:</b>
 
 	*  Working with the Azure Linux CLI
 	*  Connecting Ansible to Microsoft Azure
